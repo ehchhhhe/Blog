@@ -1,14 +1,1 @@
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://www.gfeather.xyz/",
-      "permanent": true
-    },
-    {
-      "source": "/:path*",
-      "destination": "https://www.gfeather.xyz/:path*",
-      "permanent": true
-    }
-  ]
-}
+
